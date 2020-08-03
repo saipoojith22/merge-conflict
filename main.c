@@ -12,6 +12,12 @@ Initial Security()
 feature2
 {
 //private branch code
+
+}
+feature1
+
+{
+//public branch
 }
 
 
